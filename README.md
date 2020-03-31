@@ -13,7 +13,7 @@ Script çıktıları yüzdelerine göre **output** klasörü içerisine kaydedec
 - Sadece Windows10 işletim sisteminde test edilmiştir.
 - Eğer chromedriver yerine farklı bir tarayıcı driverı kullanmak isterseniz driveri değitirdikten sonra _driver_path_ değişkenini de yapılandırmalısınız.
 
-Katkılarından dolayı Murat UĞUR'a teşekkür ediyorum
+Katkılarından dolayı **Murat UĞUR**'a teşekkür ediyorum
 
 
 
