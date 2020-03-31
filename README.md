@@ -1,4 +1,5 @@
-version 0.1
+###### version 0.1
+
 Python 3'te **selenium** frameworkü kullanılarak geliştirilmiş bir bot. Takip ettiğiniz kişileri inceleyerek kabaca geri takip oranını hesaplar. Scriptin çalışma hızı kendi internetim ve bilgisayarıma göre ayarlanmıştır. Kendi internet hızınıza göre **time.sleep()** kısmını değiştirebilirsiniz. 
 
 Script çıktıları yüzdelerine göre **output** klasörü içerisine kaydedecektir.
