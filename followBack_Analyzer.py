@@ -30,8 +30,8 @@ class Follow():
         cprint('[+] Tarayıcı başlatıldı','green')
 
     def login(self):
-        username = "acabaaa2020"
-        password = "istanbul3844"
+        username = input("Kullanıcı adı: ")
+        password = input("Şifre: ")
         cprint('[*] Giriş yapılıyor...','yellow')
 
         self.browser.get('https://instagram.com/accounts/login')
